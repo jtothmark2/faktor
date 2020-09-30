@@ -1,0 +1,6 @@
+Z:\Progi\C#\faktoriálisBigInteger\bin\Debug\faktoriálisBigInteger.exe.config
+Z:\Progi\C#\faktoriálisBigInteger\bin\Debug\faktoriálisBigInteger.exe
+Z:\Progi\C#\faktoriálisBigInteger\bin\Debug\faktoriálisBigInteger.pdb
+Z:\Progi\C#\faktoriálisBigInteger\obj\Debug\faktoriálisBigInteger.csprojAssemblyReference.cache
+Z:\Progi\C#\faktoriálisBigInteger\obj\Debug\faktoriálisBigInteger.exe
+Z:\Progi\C#\faktoriálisBigInteger\obj\Debug\faktoriálisBigInteger.pdb
