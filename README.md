@@ -1,2 +1,0 @@
-# faktor
-asd
